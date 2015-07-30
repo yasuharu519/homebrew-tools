@@ -2,7 +2,7 @@
 #                /usr/local/Library/Contributions/example-formula.rb
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Flint++ < Formula
+class Flintplusplus < Formula
   desc "Flint++ is cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook."
   homepage "http://l2program.co.uk/category/flint"
   url "https://github.com/L2Program/FlintPlusPlus/archive/master.zip"
